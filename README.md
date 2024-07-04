@@ -31,6 +31,7 @@ $ npm run test
         │  └── ...
         │
         ├── helpers
+        ├── playwright-report
         ├── package.json
         ├── env_sample
         └── playwright.config.js
