@@ -29,10 +29,13 @@ $ npm run test
         ├── test 
         │  ├── test.spec.js
         │  └── ...
+        │
         ├── helpers
-        │  └── ...
+        │  └── ..._helper.js
+        │
         ├── playwright-report
-        │  └── ...
+        │  └── test-result.json
+        │
         ├── package.json
         ├── env_sample
         └── playwright.config.js
